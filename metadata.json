@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Predictor",
+  "description": "Smart college attendance planning dashboard and detention risk predictor for VibeCraft Round 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
